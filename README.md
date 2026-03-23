@@ -39,8 +39,7 @@ The model was trained to predict sales and evaluate performance using standard r
 ---
 
 ## 📂 Dataset
-Big Mart Sales Dataset
-
+https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
 ---
 
 ## 🚀 Future Improvements
